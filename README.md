@@ -1,7 +1,7 @@
 # ProStar_Gamming_Project
 This is an Gamming website which contain standard and high quality games from PlayStations. This website id build with HTML, CSS, Javascript and deployed using Azure static web apps. This website contails totally six pages. This is was build by using BootStarp5 and google fonts. This is a static website.
 
-## ProStar Gamming website link : [ProStar_Gamming](https://ambitious-water-0d2982310.1.azurestaticapps.net/)
+## ProStar Gamming website link : [ProStar_Gamming](https://black-glacier-0e3760c10.1.azurestaticapps.net)
 
 ## Deployment Details: 
 This website was deployed using Azure Static Web Apps.
