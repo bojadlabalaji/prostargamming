@@ -1,5 +1,5 @@
 # ProStar_Gamming_Project
-This is an Gamming website which contain standard and high quality games from PlayStations. This website id build with HTML, CSS, Javascript and deployed using Azure static web apps. This website contails totally six pages. This is was build by using BootStarp5 and google fonts. This is a static website.
+This is an Gamming website which contain standard and high quality games from PlayStations. In this new trending gamming industry we have high animated games which can paly using Play Stations and play boxes. This website also provide such high animated games along with that the desktop games also.This website id build with HTML, CSS, Javascript and deployed using Azure static web apps. This website contails totally six pages. This is was build by using BootStarp5 and google fonts. This is a static website..i am trying to solve the real world problem like in these days we are searching for high quality games here and there.so i make a web app where i try to give every game with best quality so they can buy them and enjoy.And this website is deployed using static web apps and using github repository and code is written in visual studio.
 
 ## ProStar Gamming website link : [ProStar_Gamming](https://black-glacier-0e3760c10.1.azurestaticapps.net)
 
